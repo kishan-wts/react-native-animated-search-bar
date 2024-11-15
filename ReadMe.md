@@ -40,7 +40,7 @@ const App = () => {
               'etc..',
             ]}
         onChangeText={v => {
-        SetSearchedText(v);
+        setSearchedText(v);
         }}
       Value={searchedText}
       />
