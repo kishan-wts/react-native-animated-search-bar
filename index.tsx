@@ -45,7 +45,7 @@ import {
   }
   
   const AnimatedSearchBar: React.FC<AnimatedSearchBarProps> = ({
-    SearchImgSource = require('../animated-search-bar/assets/search.png'),
+    SearchImgSource = require('../react-native-animated-search-bar/assets/search.png'),
     SearchImgStyle,
     messageData = [],
     messageDelay = 200,
@@ -65,7 +65,7 @@ import {
     editable,
     clearButtonContainerStyle,
     clearBtnImageContainerViewStyle,
-    clearImageSource = require('../animated-search-bar/assets/close.png'),
+    clearImageSource = require('../react-native-animated-search-bar/assets/close.png'),
     clearBtnImgStyle,
     fontFamily = '',
     TextMessageStyleBold,
