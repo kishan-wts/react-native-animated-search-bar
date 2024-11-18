@@ -9,7 +9,7 @@ An animated-search-bar is a customizable and interactive React Native component 
 * ✨ Highly Customizable: Supports custom styles, icons, fonts, and more.
 * 🎛️ Advanced Options: Includes clear buttons, callbacks, keyboard types, and return key handling.
 
-![](https://github.com/kishan-wts/image-videos-gif/blob/main/1.gif)
+![]([https://github.com/kishan-wts/image-videos-gif/blob/main/1.gif](https://github.com/kishan-wts/image-videos-gif/blob/main/2.gif))
 # Installation
 ```
 npm i @dev-kd/react-native-animated-search-bar
