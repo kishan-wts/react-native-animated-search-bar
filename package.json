@@ -1,6 +1,6 @@
 {
   "name": "@dev-kd/react-native-animated-search-bar",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "The react-native-animated-search-bar package is a lightweight and customizable React Native component designed to create an animated search bar with smooth transitions. It provides a modern and interactive UI for search functionality, making it ideal for applications where aesthetics and user experience are important",
   "main": "index.tsx",
   "scripts": {
