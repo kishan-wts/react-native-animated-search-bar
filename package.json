@@ -20,4 +20,12 @@
     "react": "*",
     "react-native": "*"
   }
+  "keywords": [
+    "search-bar",
+    "animated-search-bar",
+    "react-component",
+    "react-native",
+    "mobile",
+    "javascript"
+  ]
 }
